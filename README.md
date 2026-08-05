@@ -1,44 +1,26 @@
 ### Hi, I'm Igor! 👋
 
-I pixelate reality by mixing coffee ☕, code, soundwaves, and pixels 👾.
+I _pixelate_ reality by mixing coffee ☕, code, soundwaves, and pixels 👾.
 
-Education should not be boring, so I introduce some fun with projects like [Telemetry Troubles](https://github.com/invadium/telemetry-troubles.mix/tree/main) and ReBasic(https://github.com/invadium/rebasic.mix).
+I'm a creator of [Collider.JAM](http://collider.land) - a JavaScript game framework tuned for game jamming, prototyping, and creative coding.
 
-I'm a compulsive air-raid-alert coder, so when I hear the sirens, I start to work on projects like [Z-Alert: Anti-Ballistix](https://github.com/invadium/anti-ballistix.mix).
+I use it to create all kinds of fun and educational experiences,
+like [Telemetry Troubles](https://invadium.itch.io/telemetry-troubles),
+[ReBasic](https://invadium.itch.io/rebasic),
+and [Alarm 1202](https://invadium.itch.io/alarm-1202).
+Or like [Z-Alert: Anti-Ballistix](https://github.com/invadium/anti-ballistix.mix), I code during long air-raid alerts.
 
-Most of my games, simulations, and visualizations are powered by [Collider.JAM](http://collider.land) - my JavaScript game framework optimized for game jamming, prototyping, creative coding, and beyond.
+I've been programming since the early 90s and have many stories like [the story about my first source control](pages/my-first-source-control.md).
 
-Join in the chant! Pixelation will not happen by itself. We need good and responsible games to augment the best in humanity: its spirit of adventure, the drive to explore new horizons, learn new things, and come up with new ideas. And not the brainless dopamine-swipe enhancers driven by ads and lootboxes.
+_Join in the chant!_ **Pixelation** will not happen by itself. We need good and responsible games to augment the best in humanity: its spirit of adventure, the drive to explore new horizons, learn new things, and come up with new ideas. Not the endless, brainless, time-stealing dopamine-swipe loops driven by ads and lootboxes.
 
 ✉ Besides GitHub, you can check my activity on
+[twitch](https://www.twitch.tv/invadium),
+[itch.io](https://invadium.itch.io/),
 [blog](http://ikhotin.com/posts/),
-[twitter](https://twitter.com/chaostarter),
-and [itch.io](https://invadium.itch.io/).
+and [twitter](https://twitter.com/chaostarter).
 
-#### ⚡ My First Source Control System
 
-My first source control system was slightly different from git. In the early 90s, I had that 8-bit Bulgarian computer based on a cloned  Motorola MC6800 with a membrane keyboard and virtually no software. 
-
-Since it had no games, I had to create them myself. Thankfully, inside its firmware was a BASIC dialect with decent abilities called UniBASIC (everything was Uni with this machine - UniBIOS, UniBASIC, UniPASCAL, UniDOS and even UniASM, but that seemed to be all software in existence).
-
-And even though the machine had a floppy drive, I would type in games from my memory. I distinctly remember one of my birthdays, when kids wanted to play on the computer I had in my bedroom, I was like - just a moment, turned it on, typed in the game, and voilà! 🎮 Kids can play! Unlike the "grown-up" IBM-PC in my father's office, where you would load a game from a hard drive or floppy disk.
-
-That was the time I used my brain to remember the source 🤔.
-
-<!--
-**invider/invider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
