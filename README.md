@@ -13,9 +13,9 @@ Or like [Z-Alert: Anti-Ballistix](https://github.com/invadium/anti-ballistix.mix
 I've been programming since the early 90s and have many stories like [the story about my first source control](pages/my-first-source-control.md).
 
 <details>
-  <summary>Join in the chant!</summary>
+<summary>Join in the chant!</summary>
 
-    **Pixelation** will not happen by itself. We need good and responsible games to augment the best in humanity: its spirit of adventure, the drive to explore new horizons, learn new things, and come up with new ideas. Not the endless, brainless, time-stealing dopamine-swipe loops driven by ads and lootboxes.
+**Pixelation** will not happen by itself. We need good and responsible games to augment the best in humanity: its spirit of adventure, the drive to explore new horizons, learn new things, and come up with new ideas. Not the endless, brainless, time-stealing dopamine-swipe loops driven by ads and lootboxes.
 
 </details>
 
