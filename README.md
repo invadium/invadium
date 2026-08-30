@@ -8,12 +8,9 @@ I use it to create all kinds of fun and educational experiences,
 like [Telemetry Troubles](https://invadium.itch.io/telemetry-troubles),
 [ReBasic](https://invadium.itch.io/rebasic),
 and [Alarm 1202](https://invadium.itch.io/alarm-1202).
-Or jam games like [Jump & Loop](https://invadium.itch.io/jump-n-loop)
-from Ludum Dare 47 and [300 Hearts for Escape](https://invadium.itch.io/300-hearts-for-escape) from Ludum Dare 44.
+Or jam games like [Jump & Loop](https://invadium.itch.io/jump-n-loop), created for Ludum Dare 47, and [300 Hearts for Escape](https://invadium.itch.io/300-hearts-for-escape), created for LD44.
 
-🎱 Some [Random Factoids](pages/factoids.md) about me.
-
-💾 [My Projects Overview](pages/projects-overview.md)
+💾 [My Projects Overview](pages/projects-overview.md) and some [🎱 Random Factoids](pages/factoids.md) about me.
 
 <details>
 <summary>Join in the chant!</summary>
@@ -27,5 +24,3 @@ from Ludum Dare 47 and [300 Hearts for Escape](https://invadium.itch.io/300-hear
 [twitch](https://www.twitch.tv/invadium),
 [itch.io](https://invadium.itch.io/),
 and [twitter](https://twitter.com/chaostarter).
-
-
