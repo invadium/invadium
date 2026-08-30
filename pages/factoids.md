@@ -1,7 +1,7 @@
 ## ⚡ I started programming on a ZX Spectrum clone in the early 90s when I was 7 or 8.
 
 <details>
-<summary> ## ⚡ My First Source Control System </summary>
+## <summary> ⚡ My First Source Control System </summary>
 
 My first source control system was slightly different from git. In the early 90s, I had that 8-bit Bulgarian computer based on a cloned Motorola MC6800 with a membrane keyboard and virtually no software.
 
@@ -15,7 +15,7 @@ That was the time I used my brain to remember the source 🤔.
 
 
 <details>
-<summary> ## ⚡ The time I survived in the game industry </summary>
+## <summary> ⚡ The time I survived in the game industry </summary>
 
 In the mid 2000s, I tried to develop commercial games for the web and mobile phones and then ended up as a back-end architect on a huge and overly ambitious **Massively Multiplayer Online Game** project.
 
@@ -30,7 +30,7 @@ I remember visiting an event where local game developers, devastated by the cris
 
 
 <details>
-<summary> ## ⚡ I used containers before it became a thing </summary>
+## <summary> ⚡ I used containers before it became a thing </summary>
 
 I used containers in production back in the 2000s, way before Docker was invented and containers became mainstream. Well, they were not called containers back then. The concept still didn’t have a name and was really hard to explain. Later, when I was looking for a job, no tech interviewer could understand what I was talking about and considered me a strange lunatic with weird ideas.
 </details>
