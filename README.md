@@ -13,10 +13,11 @@ Or jam games like [Jump & Loop](https://invadium.itch.io/jump-n-loop), created f
 💾 [My Projects Overview](pages/projects-overview.md) and some [🎱 Random Factoids](pages/factoids.md) about me.
 
 <details>
-<summary>Join in the chant!</summary>
+<summary><h3>Join in the chant! ✊✊✊</h3></summary>
 
-**Pixelation** will not happen by itself. We need good and responsible games to augment the best in humanity: its spirit of adventure, the drive to explore new horizons, learn new things, and come up with new ideas. Not the endless, brainless, time-stealing dopamine-swipe loops driven by ads and loot boxes.
+**Pixelation** will not happen by itself. We need good, responsible games to amplify the best in humanity: its spirit of adventure, the drive to explore new horizons, learn new things, and come up with new ideas. _Not the endless, brainless, time-stealing dopamine-swipe loops driven by ads and loot boxes!_
 
+Join the pixelation movement and inject fun into work, education, personal productivity, and other aspects of life! [discord](https://discord.gg/GMSJaWDcx)
 </details>
 
 ✉ Besides GitHub, you can check my activity on
