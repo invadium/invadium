@@ -2,7 +2,7 @@
 
 I _pixelate_ reality by mixing coffee ☕, code, soundwaves, and pixels 👾.
 
-I'm a creator of [Collider.JAM](http://collider.land) - a JavaScript game framework tuned for game jamming, prototyping, and creative coding.
+I'm a creator of **[Collider.JAM](http://collider.land)** - a JavaScript game framework tuned for game jamming, prototyping, and creative coding.
 
 I use it to create all kinds of fun and educational experiences,
 like [Telemetry Troubles](https://invadium.itch.io/telemetry-troubles),

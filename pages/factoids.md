@@ -3,7 +3,7 @@
 I started programming on a ZX Spectrum clone in the early 90s when I was 7 or 8.
 I even remember my father helped me save some of my programs on tape. Needless to say, none of those programs survived.
 
-_Magnetic tapes and floppies are not the best medium for long-term storage._
+_Only later did I realize that magnetic tapes and floppies are not the best medium for personal long-term storage._
 </details>
 
 <details>
@@ -66,14 +66,14 @@ We'd finally migrated the database before the deadline. But that was the most am
 That was early in my career.
 
 There was that cursed central MS SQL Server instance with replication from several regional nodes.
-That one time, replication was interrupted, and when we restored it and applied all logged transactions, 4 litres of gasoline went missing in the central DB.
+That one time, replication was interrupted, and when we restored it and applied all logged transactions, 4 litres went missing from the gasoline consumption logs in the central DB.
 
-That was a big problem for accounting. They know perfectly well how to shuffle under millions of dollars. But the 4-litre discrepancy between a regional and central server report drove them crazy.
+That was a big problem for accounting. They knew perfectly well how to shuffle cash and make millions disappear. But the 4-litre discrepancy between a regional and central server report drove them crazy.
 
-So I was left in the cold data center room to perform Transact SQL majik ritual and figure out the exact transaction that went missing.
-My ceremony was successful, and I finally identified the culprit.
+So I was left in the cold data center room to perform a Transact-SQL majik ritual and figure out the exact transaction that went missing.
+My ceremony was successful, and I finally identified the culprit. The final transaction was replicated, and the order to Universe was restored!
 
-_The case of missing gasoline is solved!_
+_The case of missing gasoline was solved!_
 
 </details>
 
