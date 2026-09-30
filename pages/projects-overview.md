@@ -1,3 +1,5 @@
+# 💾 Projects Overview
+
 Here are some notable tools, games, utilities, and miscellaneous prototypes and experiments I've created over my 35+ years of programming.
 
 
@@ -17,7 +19,7 @@ Check out __[collider.land](https://collider.land)__ and __[online docs](https:/
 
 
 
-## Tools
+## 🛠 Tools
 
 * __[ReBASIC](https://github.com/invadium/rebasic.mix)__ - Retro-inspired implementation of an 8-bit BASIC programming environment for the WEB age - [CODE ⌨](https://invadium.itch.io/rebasic)
 
@@ -41,12 +43,13 @@ Check out __[collider.land](https://collider.land)__ and __[online docs](https:/
 
 
 
-## Utilities
+## 📎 Utilities
 
 * __[reTest](https://github.com/invadium/retest)__ - testing anti-framework; a single drop-in bash script for smoke-testing command-line tools. I use it to test tools like the ReBASIC interpreter.
 
 * __[Termit](https://github.com/invadium/termit)__ - web-based text console that can be used to add a terminal-like command shell to any web page.
 
 * __[MasterList](https://github.com/invadium/masterlist)__ - command-line todo manager.
+
 
 
