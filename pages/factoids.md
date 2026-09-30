@@ -54,7 +54,7 @@ It was still early and hard to explain. Later, when I was looking for a job, no 
 </details>
 
 <details>
-<summary><h2>⚡ One day I turned into a data archaeologist and migrated a database from a mainframe</h2></summary>
+<summary><h2>⚡ I was a data archaeologist migrating a mainframe database</h2></summary>
 
 We were migrating a customer database with billing data to our system. The problem was that there were no specs, no documentation, no access to the running software.
 
@@ -104,20 +104,4 @@ That situation made me reflect on my years in the industry and how many times I 
 We're all humans after all. We all hold various misconceptions and occasionally make mistakes in our judgment. Even CTOs and VPs of Engineering.
 
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
